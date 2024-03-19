@@ -2,10 +2,11 @@
 
 ### 9.9￥ 获取完整源码+sql，附赠11000字论文参考，需要的加Q：3808981644 微信：qszard26
 ### 有问题，或者需要协助调试运行项目的也可联系
+### 更多项目： https://github.com/34426?tab=repositories
 
 ## 一、介绍
 
-基于springboot+vue的前后端分离自习室预约管理系统
+基于springboot+vue的自习室预约管理系统
 
 开发语言：java
 
