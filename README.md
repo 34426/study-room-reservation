@@ -13,8 +13,7 @@
 运行环境:idea或eclipse 数据库:mysql
 
 主要技术:
-Java,Springboot,mybatis,mysql,jquery,html,vue
-
+Java,Springboot,mybatis,mysql,vue,html
 角色:用户、管理员
 
 用户菜单:首页:个人中心,论坛,通知公告,自习室信息,自习室座位预约，个人中心,在线客服
